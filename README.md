@@ -8,6 +8,7 @@ dados de relatório - Exportar em PDF - Enviar por e-mail
 **Tarefa:** Refatore a classe para que siga o princípio da
 responsabilidade única (SRP).
 
+
 ------------------------------------------------------------------------
 
 ## Exercício 2 - SRP em um Sistema de Biblioteca
